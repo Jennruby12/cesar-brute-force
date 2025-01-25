@@ -1,15 +1,10 @@
 # Introducción
 
-Este proyecto tiene como objetivo demostrar la implementación de un ataque de fuerza bruta sobre el Cifrado César en Python.
-Es ideal para quienes desean aprender sobre criptografía básica y pruebas de seguridad de textos cifrados.
-El cifrado César
-En el siglo I a.c. aparece un método de cifrado conocido con el nombre genérico de cifrado de César
-en honor al emperador Julio César y en el que ya se aplica una transformación al texto en claro de tipo
-monoalfabética. El cifrado del César aplica un desplazamiento constante de tres caracteres al texto en
-claro, de forma que el alfabeto de cifrado es el mismo que el alfabeto del texto en claro, pero desplazado
-3 espacios hacia la derecha módulo n, con n el número de letras del mismo. A continuación se muestra
-el alfabeto y la transformación que realiza este cifrador por sustitución de caracteres para el alfabeto
-castellano de 27 letras.
+Durante el siglo I a.C., surgió un método de encriptación conocido como Cifrado César, llamado así en honor al emperador Julio César, quien lo utilizaba para proteger sus comunicaciones. Este método emplea una técnica de sustitución monoalfabética, aplicando un desplazamiento fijo a cada letra del mensaje original.
+
+El Cifrado César realiza un desplazamiento constante de tres posiciones en el alfabeto, de manera que cada letra del texto original es reemplazada por otra ubicada tres lugares más adelante. Este desplazamiento se aplica de forma cíclica utilizando aritmética modular, donde el número total de letras del alfabeto define el ciclo de repetición.
+
+A continuación, se muestra un ejemplo de cómo se realiza la transformación con el alfabeto español de 27 caracteres.
 
 ## Objetivo
 
