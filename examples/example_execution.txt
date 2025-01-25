@@ -1,0 +1,13 @@
+#Si tu codigo no funciona, te recomiendo que crees un entorno virtual, asi no tengas problemas al ejecutar el programa
+
+┌──(jenn㉿kali)-[~] 
+└─$ source cifrado_cesarfb/bin/activate
+
+# Puedes utilizar la siguiente página para poder introducir el texto cifrado! 
+# https://www.dcode.fr/cifrado-cesar
+
+┌──(cifrado_cesarfb)(jenn㉿kali)-[~]
+└─$ python3 cifrado_cesarfb.py
+Por favor introduce el texto cifrado: Egjtqp st sthrxugpsd rthpg
+EL texto descifrado es: prueba de descifrado cesar
+La clave de descifrado es: 15
