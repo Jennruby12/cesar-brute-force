@@ -21,6 +21,12 @@ El objetivo del proyecto es descifrar un texto sin conocer la clave de cifrado m
 - **string** - Módulo de Python para manipulación de texto.
 - Editor de codigo "emac".
 
+## Ejemplo de ejecución
+
+A continuación, se muestra un ejemplo de ejecución del script de descifrado de Cifrado César:
+
+Puedes encontrar el archivo completo en la carpeta [`examples/example_execution.txt`](examples/example_execution.txt).
+
 ## Requisitos
 Antes de ejecutar el script, instala las dependencias necesarias:
 
