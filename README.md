@@ -26,3 +26,6 @@ Antes de ejecutar el script, instala las dependencias necesarias:
 
 ```bash
 pip install langdetect
+sudo apt install emacs -y
+emacs "example.py"
+
